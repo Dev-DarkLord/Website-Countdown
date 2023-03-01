@@ -21,7 +21,7 @@ If you find a bug or have a feature request, please submit an issue or pull requ
 * [@DevDarkLord](https://twitter.com/DevDarkLord)
 
 ## Support Us 
-* [Join](https://discord.gg/GPaWyDMMar)
+[Join](https://discord.gg/GPaWyDMMar)
 
 ## License
 This project is licensed under the MIT License. Feel free to use and modify this code for your own projects.
