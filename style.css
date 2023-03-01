@@ -1,0 +1,34 @@
+.countdown {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.countdown-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background: #7b45ff;
+  color: white;
+  box-shadow: 0 0 5px 0 #0000003d;
+  border-radius: 10px;
+  font-family: arial;
+  font-size: 18px;
+  margin-left: 5px;
+}
+
+.countdown-finish {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 160px;
+  height: 40px;
+  color: white;
+  font-family: arial;
+  box-shadow: 0 0 5px 0 #0000003d;
+  background: #ff4545;
+  font-size: 18px;
+  border-radius: 10px;
+}
