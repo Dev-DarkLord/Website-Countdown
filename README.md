@@ -18,7 +18,7 @@ If you find a bug or have a feature request, please submit an issue or pull requ
 * JavaScript
 
 ## Writer
-* @DevDarkLord
+* [@DevDarkLord](https://twitter.com/DevDarkLord)
 
 ## Support Us 
 * [Join](https://discord.gg/GPaWyDMMar)
