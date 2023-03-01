@@ -20,7 +20,7 @@ If you find a bug or have a feature request, please submit an issue or pull requ
 ## Writer
 * @DevDarkLord
 
-##Support Us 
+## Support Us 
 * [Join](https://discord.gg/GPaWyDMMar)
 
 ## License
